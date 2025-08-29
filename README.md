@@ -42,21 +42,21 @@ Este repositorio contiene nuestro portafolio web profesional, desarrollado como 
 ## 🛠️ Stack Tecnológico
 
 ### **Testing & QA**
-- ![Selenium](images/icons/selenium.png) Selenium WebDriver
-- ![TestNG](images/icons/testng.png) TestNG
-- ![JUnit](images/icons/junit.png) JUnit 5
-- ![Cucumber](images/icons/cucumber.png) Cucumber
-- ![JMeter](images/icons/jmeter.png) Apache JMeter
+- <img src="images/icons/selenium.png" width="20" height="20"> Selenium WebDriver
+- <img src="images/icons/testng.png" width="20" height="20"> TestNG
+- <img src="images/icons/junit.png" width="20" height="20"> JUnit 5
+- <img src="images/icons/cucumber.png" width="20" height="20"> Cucumber
+- <img src="images/icons/jmeter.png" width="20" height="20"> Apache JMeter
 
 ### **Lenguajes y Tecnologías**
-- ![Java](images/icons/java.png) Java
-- ![HTML](images/icons/html.png) HTML5
-- ![CSS](images/icons/CSS.png) CSS3
-- ![JavaScript](images/icons/js.png) JavaScript
-- ![Node.js](images/icons/node.png) Node.js
-- ![SQL](images/icons/sql.png) SQL
-- ![Git](images/icons/git.png) Git
-- ![PostgreSQL](images/icons/psql.png) PostgreSQL
+- <img src="images/icons/java.png" width="20" height="20"> Java
+- <img src="images/icons/html.png" width="20" height="20"> HTML5
+- <img src="images/icons/CSS.png" width="20" height="20"> CSS3
+- <img src="images/icons/js.png" width="20" height="20"> JavaScript
+- <img src="images/icons/node.png" width="20" height="20"> Node.js
+- <img src="images/icons/sql.png" width="20" height="20"> SQL
+- <img src="images/icons/git.png" width="20" height="20"> Git
+- <img src="images/icons/psql.png" width="20" height="20"> PostgreSQL
 
 ## 🚀 Proyectos Destacados
 
