@@ -72,21 +72,21 @@ Este repositorio contiene nuestro portafolio web profesional, desarrollado como 
 ## 🛠️ Stack Tecnológico
 
 ### **Testing & QA**
-- <img src="images/icons/selenium.png" width="20" height="20"> Selenium WebDriver
-- <img src="images/icons/testng.png" width="20" height="20"> TestNG
-- <img src="images/icons/junit.png" width="20" height="20"> JUnit 5
-- <img src="images/icons/cucumber.png" width="20" height="20"> Cucumber
-- <img src="images/icons/jmeter.png" width="20" height="20"> Apache JMeter
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="20" height="20"> Selenium WebDriver
+- <img src="https://github.com/testng-team/testng/raw/master/src/main/resources/images/testng.png" width="20" height="20"> TestNG
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="20" height="20"> JUnit 5
+- <img src="https://raw.githubusercontent.com/cucumber/cucumber-js/main/docs/images/cucumber-logo.svg" width="20" height="20"> Cucumber
+- <img src="https://jmeter.apache.org/images/jmeter.png" width="20" height="20"> Apache JMeter
 
 ### **Lenguajes y Tecnologías**
-- <img src="images/icons/java.png" width="20" height="20"> Java
-- <img src="images/icons/html.png" width="20" height="20"> HTML5
-- <img src="images/icons/CSS.png" width="20" height="20"> CSS3
-- <img src="images/icons/js.png" width="20" height="20"> JavaScript
-- <img src="images/icons/node.png" width="20" height="20"> Node.js
-- <img src="images/icons/sql.png" width="20" height="20"> SQL
-- <img src="images/icons/git.png" width="20" height="20"> Git
-- <img src="images/icons/psql.png" width="20" height="20"> PostgreSQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20"> Java
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20"> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20" height="20"> CSS3
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20"> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20" height="20"> Node.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20" height="20"> SQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20"> Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="20" height="20"> PostgreSQL
 
 ## 🚀 Proyectos Destacados
 
