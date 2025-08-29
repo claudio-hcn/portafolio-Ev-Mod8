@@ -1,6 +1,6 @@
 # 🧪 SoftTechQA - Portafolio Profesional
 
-![SoftTechQA Logo](images/logos/logo.png)
+![SoftTechQA Logo](images/profile/banner_softech.jpg)
 
 ## 📋 Descripción del Proyecto
 
