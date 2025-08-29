@@ -1,12 +1,42 @@
 # 🧪 SoftTechQA - Portafolio Profesional
 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fclaudio-hcn.github.io%2Fportafolio-Ev-Mod8%2F)](https://claudio-hcn.github.io/portafolio-Ev-Mod8/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-success)](https://claudio-hcn.github.io/portafolio-Ev-Mod8/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ![SoftTechQA Logo](images/profile/banner_softech.jpg)
+
+**🌐 Sitio Web en Vivo**: [https://claudio-hcn.github.io/portafolio-Ev-Mod8/](https://claudio-hcn.github.io/portafolio-Ev-Mod8/)
 
 ## 📋 Descripción del Proyecto
 
 **SoftTechQA** es una empresa especializada en **Testing QA** y **Desarrollo Web**, enfocada en ofrecer soluciones tecnológicas innovadoras que impulsan la calidad y eficiencia de los proyectos de nuestros clientes.
 
 Este repositorio contiene nuestro portafolio web profesional, desarrollado como proyecto final del **Bootcamp de Automatización de Pruebas QA 2025** de **Talento Digital para Chile - SENCE**.
+
+## 📸 Capturas de Pantalla
+
+### 🏠 Página Principal
+![Página Principal](images/screenshots/home.png)
+*Vista principal con presentación de la empresa y servicios*
+
+### 👥 Sobre Nosotros
+![Sobre Nosotros](images/screenshots/about.png)
+*Información del equipo y stack tecnológico*
+
+### 🚀 Proyectos
+![Proyectos](images/screenshots/projects.png)
+*Showcase de nuestros trabajos destacados en testing y desarrollo*
+
+### 📝 Recomendaciones
+![Recomendaciones](images/screenshots/recommendations.png)
+*Sistema interactivo para testimonios de clientes*
+
+### 📞 Contacto
+![Contacto](images/screenshots/contact.png)
+*Formulario de contacto e información de la empresa*
 
 ## 🎯 Servicios que Ofrecemos
 
@@ -97,19 +127,37 @@ Este repositorio contiene nuestro portafolio web profesional, desarrollado como 
         └── 📁logos       # Logotipos
         └── 📁profile     # Imágenes de perfil
         └── 📁projects    # Imágenes de proyectos
+        └── 📁screenshots # Capturas del sitio web
     └── 📁js              # Scripts JavaScript
         ├── script.js     # Funcionalidad principal
     ├── index.html        # Página principal
     └── README.md         # Documentación del proyecto
 ```
 
+## 📊 Estadísticas del Proyecto
+
+![GitHub repo size](https://img.shields.io/github/repo-size/claudio-hcn/portafolio-Ev-Mod8)
+![GitHub last commit](https://img.shields.io/github/last-commit/claudio-hcn/portafolio-Ev-Mod8)
+![GitHub stars](https://img.shields.io/github/stars/claudio-hcn/portafolio-Ev-Mod8?style=social)
+![GitHub forks](https://img.shields.io/github/forks/claudio-hcn/portafolio-Ev-Mod8?style=social)
+
 ## 🌐 Funcionalidades del Sitio Web
 
-- **Página de Inicio**: Presentación de la empresa y servicios
-- **Sobre Nosotros**: Información del equipo y tecnologías
-- **Proyectos**: Showcase de trabajos realizados
-- **Recomendaciones**: Sistema para recibir testimonios de clientes
-- **Contacto**: Formulario de contacto y información de contacto
+- **🏠 Página de Inicio**: Presentación de la empresa y servicios
+- **👥 Sobre Nosotros**: Información del equipo y tecnologías
+- **🚀 Proyectos**: Showcase de trabajos realizados
+- **💬 Recomendaciones**: Sistema interactivo para recibir testimonios de clientes
+- **📞 Contacto**: Formulario de contacto y información de contacto
+- **📱 Diseño Responsivo**: Adaptado para todos los dispositivos
+- **⚡ Navegación SPA**: Experiencia de usuario fluida sin recargas
+
+## 🛡️ Características Técnicas
+
+- **100% Vanilla JavaScript**: Sin dependencias externas
+- **CSS3 Moderno**: Flexbox, Grid, Animations
+- **Semántica HTML5**: Estructura accesible y SEO-friendly
+- **Mobile First**: Diseño adaptativo desde móvil
+- **GitHub Pages**: Despliegue automático y gratuito
 
 ## 🚀 Instalación y Uso
 
@@ -130,7 +178,21 @@ Este repositorio contiene nuestro portafolio web profesional, desarrollado como 
    
    # Con Node.js (usando live-server)
    npx live-server
+   
+   # O simplemente abre index.html en tu navegador
    ```
+
+4. **Alternativamente**, visita la versión en vivo: [https://claudio-hcn.github.io/portafolio-Ev-Mod8/](https://claudio-hcn.github.io/portafolio-Ev-Mod8/)
+
+## 🎨 Personalización
+
+Para personalizar el portafolio para tu equipo:
+
+1. **Actualiza la información del equipo** en `index.html`
+2. **Cambia los iconos** en la carpeta `images/icons/`
+3. **Modifica los estilos** en `css/styles.css`
+4. **Añade tus proyectos** en la sección correspondiente
+5. **Actualiza la información de contacto**
 
 ## 📞 Contacto
 
